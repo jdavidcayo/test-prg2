@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/test-prg2.iml" filepath="$PROJECT_DIR$/test-prg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioHerencia.iml" filepath="$PROJECT_DIR$/EjercicioHerencia.iml" />
     </modules>
   </component>
 </project>
